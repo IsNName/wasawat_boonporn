@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006633812714",
+    "project_id": "movies-5c45f",
+    "storage_bucket": "movies-5c45f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006633812714:android:0dcccca6c059baad014d93",
+        "android_client_info": {
+          "package_name": "com.example.wasawat_boonporn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_LwR1Nal3NgqBrBekry0JgtnlGXToY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
